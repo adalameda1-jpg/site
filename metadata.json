@@ -1,0 +1,7 @@
+{
+  "name": "Assembleia de Deus Alameda 1",
+  "description": "Site institucional oficial da Igreja Assembleia de Deus Alameda 1, com foco em design moderno, cores azul-marinho e dourado, animações e integração com redes sociais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
